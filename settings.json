@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "MTA1MzM0NTUxMzA3MzgwNzQzMA.GIDncX.NaHd9YToWhjcd-e-7u6xrztB8LsJr7OXBQlgGw",
+    "MTA1MzM1MTM4ODk3NDk0MDI0NA.GkbkPf.68h8gVREJl2RZAv05Ed4Pl1zenCciXUSkWBRj0",
+    "MTA1MzM1MjYxMjM5ODkwNzUzNA.GfUVUk.aS8YStwB3aVRGLa0C8R7-xwLuFyxacR7aF9PVg" ],
+  
+  "channels": [
+    "1053350662680870952",
+    "1053350680317923329",    
+    "1053350694951854120" ],
+
+  "staffRoles": [
+    "1052725067223666769"],
+
+  "unregisterRoles": [
+    "1052515617057558539"],
+  
+  "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/1053344936214417440/1053349235950633092/Winter_yetkili_ses.mp3"
+}
